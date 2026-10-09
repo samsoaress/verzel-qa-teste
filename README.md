@@ -2,7 +2,7 @@
 
 Validação da entrega **Cupom de desconto e frete grátis** (versão 2.3.0) da Verzel Store: cenários de teste, execução manual e exploratória, testes de API, report de bugs, evidências e automação com Playwright.
 
-- **Candidato(a):** `[PREENCHER: nome]`
+- **Candidato(a):** `[PREENCHER: samuel soares caldeira]`
 - **Loja:** https://verzel-store.qa-test-verzel-store.workers.dev/
 - **Documentação da entrega:** https://verzel-store.qa-test-verzel-store.workers.dev/documentacao
 - **API:** https://verzel-store.qa-test-verzel-store.workers.dev/api
@@ -104,7 +104,7 @@ Comportamentos descritos em "Sobre este ambiente" (carrinho só na aba, pedidos 
 
 ## Uso de IA
 
-`[PREENCHER com sinceridade: onde e como você usou IA, ou que não usou.]`
+Usei o Claude (IA da Anthropic) como apoio. Ele me ajudou a montar a estrutura do projeto em Playwright, os helpers de cálculo e a primeira versão dos testes automatizados de API e UI. Eu rodei a automação na minha máquina, analisei as falhas, gravei os seletores reais da interface com o Playwright codegen e ajustei os testes a eles. Os testes manuais eu executei e verifiquei pessoalmente na loja, comparando cada resultado com o que a documentação define, e registrei os bugs na planilha
 
 ## Limitações
 
